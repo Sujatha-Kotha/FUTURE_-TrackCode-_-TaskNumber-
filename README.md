@@ -6,6 +6,7 @@ This project was completed as part of the FutureInterns Data Analytics Internshi
 
 The goal was to analyze e-commerce sales data and build an interactive Power BI dashboard that helps business owners and decision-makers understand key sales performance trends.
 
+
 🎯 Objectives
 The main questions addressed in this analysis:
 
@@ -16,6 +17,7 @@ The main questions addressed in this analysis:
 •	Which categories, sub-categories, and regions generate the most revenue?
 
 •	What are the overall sales and profit trends?
+
 
 📊 Dataset Information
 Dataset used: Superstore Sales Dataset
@@ -85,5 +87,7 @@ Built using Power BI Desktop, the interactive dashboard includes:
 •	Time Series Analysis
 
 •	DAX for KPI Creation
+
 •	Business Storytelling through Dashboards
 •	Real-World Decision Support using Data
+
